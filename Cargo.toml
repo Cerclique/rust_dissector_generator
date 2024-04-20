@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 serde_json = "1.0.81"
-wirdigen = "0.1.0"
+wirdigen = "0.3.0"
