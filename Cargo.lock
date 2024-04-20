@@ -1488,9 +1488,9 @@ dependencies = [
 
 [[package]]
 name = "wirdigen"
-version = "0.1.0"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e328746ec204d7ee2a5d93036b378b5becab1105dd09732341ce36447e4c7e91"
+checksum = "d44c21903092b5fdb1457c77dc0415c8495fa06cd255af249d904cc1e3c03205"
 dependencies = [
  "anyhow",
  "chrono",
